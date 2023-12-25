@@ -256,7 +256,7 @@ if __name__ == '__main__':
                 print("running the detection code")
                 speak("running the detection code")
                 # Replace 'path_to_your_script.py' with the path to the Python script you want to execute.
-                script_output = run_python_script('C:/Users/shyam/Desktop/Projects/run_code_file/rr.py.py')
+                script_output = run_python_script('Add Your detection Path')
 
                 # Output will contain the output of the executed script or any error encountered during execution
                 print(script_output)
@@ -264,7 +264,7 @@ if __name__ == '__main__':
             elif"Run mnist detection" in query:
                 print("running the MNIST detection code")
                 speak("running the MNIST detection code")
-                script_output = run_python_script('C:/Users/shyam/Desktop/Projects/MNIST/webcam.py')
+                script_output = run_python_script('Add Your detection Path')
                 print(script_output)
 
 
