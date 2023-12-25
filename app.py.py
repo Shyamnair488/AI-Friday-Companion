@@ -79,7 +79,7 @@ def index():
 @app.route('/run_code', methods=['GET', 'POST'])
 def run_code():
     try:
-        process = subprocess.Popen(['python', 'C:/Users/shyam/Desktop/Projects/FRIDAY/friday.py'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        process = subprocess.Popen(['python', 'Your friday code path'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
         if error:
             return str(error)
