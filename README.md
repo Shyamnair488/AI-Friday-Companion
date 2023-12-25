@@ -8,17 +8,24 @@ AI Friday Companion is an innovative project that hosts an AI assistant named "F
 
 # Key Features
 1.Conversational AI: Engage in natural conversations with Friday, your personal AI assistant.
+
 2.Multi-functionality: Execute Python scripts, search the web, fetch real-time information, and perform various tasks effortlessly.
+
 3.Speech Recognition: Interact hands-free using voice commands for a seamless experience.
+
 4.AI Toolkit: Explore utilities designed to simplify tasks and enhance user interaction.
+
 5.Extensibility: Continuously evolving and open to further development and customization.
 
 # Usage
 To utilize AI Friday Companion:
 
 1.Clone this repository to your local machine.
+
 2.Install the required dependencies using pip install -r requirements.txt.
+
 3.Run the main script using python friday.py.
+
 4.Enjoy interacting with your AI assistant!
 
 # Contributions
